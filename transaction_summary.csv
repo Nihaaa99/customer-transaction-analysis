@@ -1,0 +1,4 @@
+status,transaction_count,total_amount_inr
+Completed,15,14550.0
+Failed,7,6450.0
+Pending,8,6000.0

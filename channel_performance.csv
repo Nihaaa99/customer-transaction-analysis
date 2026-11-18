@@ -1,0 +1,4 @@
+channel,total_transactions,completed_transactions,completion_rate_pct
+Card,10,6,60.0
+Wallet,10,5,50.0
+UPI,10,4,40.0
